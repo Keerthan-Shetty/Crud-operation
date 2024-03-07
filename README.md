@@ -1,11 +1,10 @@
 # To Run the project
 
 # Dependencies
-*React-Dom
+* React-Dom
 * Axios
 * Json-server
 * Bootstrap
-* React-dom
 
 First, we have to create json file. 
 Before running the project(npm start), you should run the json-server

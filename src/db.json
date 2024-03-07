@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "karan Sharma",
+      "age": 24,
+      "phone": "2347834590",
+      "email": "karan@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Richard jack",
+      "age": 26,
+      "phone": "2347554590",
+      "email": "richard@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Mani",
+      "age": "24",
+      "phone": "2290007889",
+      "email": "mani@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Smith",
+      "age": "26",
+      "phone": "2290833889",
+      "email": "smith@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Prathic",
+      "age": "14",
+      "phone": "2290887889",
+      "email": "prathic@gmail.com"
+    }
+  ]
+}

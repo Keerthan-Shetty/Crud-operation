@@ -15,5 +15,5 @@ json-server --watch <file-Name>/<relative path of File-Name> [if it doesn't work
 
 npx json-server --watch <file-Name>/<relative path of File-Name> [Use this instead]
 
-# Then run the command `npm start` in old terminal.
+# Then run the command `npm start`.
 It should run on different port(!important).

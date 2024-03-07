@@ -17,3 +17,6 @@ npx json-server --watch <file-Name>/<relative path of File-Name> [Use this inste
 
 # Then run the command `npm start`.
 It should run on different port(!important).
+
+
+![localhost_3001_ (1)](https://github.com/Keerthan-Shetty/Crud-operation/assets/148765345/1767beea-d4ee-4a13-bdb8-0dd95b2bcfe4)

@@ -5,6 +5,7 @@
 * Axios
 * Json-server
 * Bootstrap
+* React-dom
 
 First, we have to create json file. 
 Before running the project(npm start), you should run the json-server
@@ -15,4 +16,4 @@ json-server --watch <file-Name>/<relative path of File-Name> [if it doesn't work
 
 npx json-server --watch <file-Name>/<relative path of File-Name> [Use this instead]
 
-Then run the command #npm start .
+# Then run the command `npm start` in old terminal.

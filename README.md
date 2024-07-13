@@ -6,8 +6,8 @@
 * Json-server
 * Bootstrap
 
-First, we have to create json file. 
-Before running the project(npm start), you should run the json-server
+First, we have to create json file,
+Before running the project(npm start), you should run the json-server[if you want you can run the server in the new terminal].
 
 # json-server commands(New Terminal)
 

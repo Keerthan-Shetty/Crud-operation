@@ -1,7 +1,7 @@
 # To Run the project
 
 # Dependencies
--- React-Dom
+* React-Dom
 * Axios
 * Json-server
 * Bootstrap
